@@ -1,3 +1,6 @@
+# 2 d1r7y...
+# ((
+
 def conv(x):
     res = [0, 0, 0]
     for i in range(x):
@@ -34,3 +37,4 @@ for i in range(0, 10648 + 1):
         print('AAAAAAAAAAAAAAAAAAA')
         exit(-1)
     results.append(converted)
+
